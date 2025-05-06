@@ -195,3 +195,4 @@ After close ⇒  USDC=495.14  MLC=50490.27
 ## 📜 License
 
 SPDX-License-Identifier: MIT
+We used GitHub Copilot to assist in generating parts of our smart contract and scripting logic.
